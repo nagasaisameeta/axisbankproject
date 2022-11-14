@@ -1,0 +1,1 @@
+Amazon’s Simple Email Service (SES) and go over a few ways you can utilize it. SES is an outbound email service, which means that it will allow you to send emails through it.
